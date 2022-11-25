@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-25T15:10:59 IST" name="Default suite" finished-at="2022-11-25T15:11:00 IST" duration-ms="1322">
+    <groups>
+    </groups>
+    <test started-at="2022-11-25T15:10:59 IST" name="Default test" finished-at="2022-11-25T15:11:00 IST" duration-ms="1322">
+      <class name="selenium.NewTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:selenium.NewTest@576d5deb]" started-at="2022-11-25T15:10:59 IST" name="start" finished-at="2022-11-25T15:10:59 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="displaydata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.NewTest@576d5deb]" started-at="2022-11-25T15:11:00 IST" name="displaydata" data-provider="testdata" finished-at="2022-11-25T15:11:00 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Navaneeth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A22079]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bangalore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaydata -->
+        <test-method signature="displaydata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.NewTest@576d5deb]" started-at="2022-11-25T15:11:00 IST" name="displaydata" data-provider="testdata" finished-at="2022-11-25T15:11:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Neethu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[F767]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Malappuram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaydata -->
+        <test-method signature="displaydata(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:selenium.NewTest@576d5deb]" started-at="2022-11-25T15:11:00 IST" name="displaydata" data-provider="testdata" finished-at="2022-11-25T15:11:00 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nithwik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[R765656]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kootilangadi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaydata -->
+        <test-method signature="second()[pri:1, instance:selenium.NewTest@576d5deb]" started-at="2022-11-25T15:11:00 IST" name="second" finished-at="2022-11-25T15:11:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method is-config="true" signature="end()[pri:0, instance:selenium.NewTest@576d5deb]" started-at="2022-11-25T15:11:00 IST" name="end" finished-at="2022-11-25T15:11:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- selenium.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
